@@ -168,11 +168,12 @@ footer {
         padding: 0;
         margin: 0;
     }
-}
-
+    
 .one {
     height: 2vh;
 }
+}
+
 
 @media (max-width: 767px) {
     header {
